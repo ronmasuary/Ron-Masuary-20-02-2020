@@ -1,0 +1,9 @@
+handleError with search Bar
+
+IsDayTime	boolean	Flag indicating the time of day (true=day, false=night)--- currentTemp
+
+WeatherIcon 
+
+load tel aviv on start up
+
+Change apiHost to accuweather
